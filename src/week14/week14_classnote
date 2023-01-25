@@ -1,0 +1,78 @@
+OOP Concepts
+abstraction
+Polymorphism
+
+
+super class
+static
+private
+final
+instantiated
+interface
+multiple inheritance
+overriding
+instanceof
+casting
+up-casting
+down-casting
+
+
+
+
+
+
+
+
+
+
+
+
+
+add 'abstract' keyword
+and delete the body
+
+First concrete class must implement all methods that don't have body -only first class? Yes, the first one. But it should be concrete
+at the first concrete class the abstract method should have a body
+
+why we have constructor in abstract class
+To assign the private variables in it, I think
+
+constructor is MUST in java for all classes
+
+The main purpose of the constructor is to initialize the newly created object.
+In abstract class, we have an instance variable, abstract methods, and non-abstract methods.
+We need to initialize the non-abstract methods and instance variables, therefore abstract classes have a constructor
+
+First class in a ml, but in hierarchical all classes need to override all methods.
+
+if they are instance, we put them in the constructor
+
+Interface can have also private method but anybody doesn't mention about it
+
+we can implement more then one interface in a class
+
+If there is no overriding it comes from parent if yes from child class
+
+child class decides the implementation
+
+it is like a child could grow up and get married then can be a parent.
+But any parent cannot be "grow down" and become someone's child.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
