@@ -28,6 +28,7 @@ public class CollectionPractice {
     }
 
     // set
+
     public static void two() {
 
         Set<Integer> hashSet = new HashSet<>(Arrays.asList(10, 20, 30, 40, 50));
